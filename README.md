@@ -1,1 +1,1 @@
-# Django-Project
+Django signals are used to trigger actions automatically when certain events occur, such as saving a model. In this project, signals were used to study their behavior by adding a delay and observing the output. It was found that Django signals execute synchronously, meaning they run immediately and delay the response until completion. It was also observed that signals run in the same thread as the caller and share the same database transaction, as any rollback affects both the main operation and the signal.
