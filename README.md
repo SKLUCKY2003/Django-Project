@@ -13,3 +13,23 @@ python manage.py makemigrations
 python manage.py migrate
 5. Ran the development server:
 python manage.py runserver
+
+Results
+
+<img width="652" height="329" alt="image" src="https://github.com/user-attachments/assets/869e1a1b-e6b7-4c07-bf74-fe8eb555ed11" />
+
+<img width="794" height="404" alt="image" src="https://github.com/user-attachments/assets/8bb33691-c671-4123-999c-49c9fbea28af" />
+
+<img width="804" height="643" alt="image" src="https://github.com/user-attachments/assets/f6499972-fceb-4e99-abe2-f79f8b822fdc" />
+
+<img width="804" height="369" alt="image" src="https://github.com/user-attachments/assets/9979b2b8-5ff6-4542-a8e8-616c04778d34" />
+
+
+
+
+
+
+
+
+
+
