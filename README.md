@@ -2,16 +2,25 @@ Django signals are used to trigger actions automatically when certain events occ
 
 Project Setup Steps:
 1. Created a Django project using:
+
 django-admin startproject myproject
+
 2. Navigated into the project folder:
+   
 cd myproject
-3. Created an app:
+
+4. Created an app:
+   
 python manage.py startapp myapp
 
-4. Applied migrations:
+6. Applied migrations:
+   
 python manage.py makemigrations
+
 python manage.py migrate
-5. Ran the development server:
+
+8. Ran the development server:
+   
 python manage.py runserver
 
 Results
